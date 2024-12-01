@@ -1,0 +1,110 @@
+[
+    {
+        "nome": "Mia Rossi",
+        "farmaci": [
+            "ORENITRAM"
+        ]
+    },
+    {
+        "nome": "Carlo Ricci",
+        "farmaci": [
+            "SARILUMAB"
+        ]
+    },
+    {
+        "nome": "Elena Fontana",
+        "farmaci": [
+            "RINVOQ"
+        ]
+    },
+    {
+        "nome": "Chiara White",
+        "farmaci": [
+            "IDHIFA"
+        ]
+    },
+    {
+        "nome": "Michael Galli",
+        "farmaci": [
+            "RINVOQ"
+        ]
+    },
+    {
+        "nome": "Benjamin Santoro",
+        "farmaci": [
+            "OPZELURA"
+        ]
+    },
+    {
+        "nome": "Benjamin Robinson",
+        "farmaci": [
+            "KEVZARA"
+        ]
+    },
+    {
+        "nome": "Christina Ferretti",
+        "farmaci": [
+            "APIXABAN"
+        ]
+    },
+    {
+        "nome": "Sara Brown",
+        "farmaci": [
+            "RINVOQ"
+        ]
+    },
+    {
+        "nome": "Elijah Bianchi",
+        "farmaci": [
+            "TALTZ"
+        ]
+    },
+    {
+        "nome": "Isabella Clark",
+        "farmaci": [
+            "OPZELURA"
+        ]
+    },
+    {
+        "nome": "Isabella Russo",
+        "farmaci": [
+            "RINVOQ"
+        ]
+    },
+    {
+        "nome": "William Bruno",
+        "farmaci": [
+            "INFLECTRA"
+        ]
+    },
+    {
+        "nome": "Giorgio Marino",
+        "farmaci": [
+            "RINVOQ"
+        ]
+    },
+    {
+        "nome": "Davide Garcia",
+        "farmaci": [
+            "GENOTROPIN"
+        ]
+    },
+    {
+        "nome": "Oliver Ferrari",
+        "farmaci": [
+            "TAVALISSE"
+        ]
+    },
+    {
+        "nome": "Michael Conti",
+        "farmaci": [
+            "GENOTROPIN"
+        ]
+    },
+    {
+        "nome": "Francesca Jackson",
+        "farmaci": [
+            "TAVALISSE"
+        ]
+    }
+]
